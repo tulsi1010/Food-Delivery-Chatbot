@@ -80,6 +80,9 @@ This project can be deployed to platforms like Hugging Face Spaces or other clou
 2.  **Upload Files**: Upload `app.py`, `requirements.txt`, and `customer_orders.db` to your Space repository.
 3.  **Set Secrets**: In your Space settings, add your `GROQ_API_KEY` as a secret.
 
+## 🚀 Live Demo
+**[▶ Try the app on Hugging Face Spaces](https://huggingface.co/spaces/Tulsi10/FoodDeliveryChatbot)
+
 ### GitHub Deployment (as performed in the notebook)
 
 To push your project files to a GitHub repository, ensure you have:
